@@ -10,7 +10,7 @@ export default function PoweredBy(props) {
       <span className='mr-1'>Powered by</span>
       <a
         href='https://aze66.top'
-        className='underline justify-start'>
+        className='阿泽'>
         flyspeek {siteConfig('VERSION')}
       </a>
       .
