@@ -11,7 +11,7 @@ export default function PoweredBy(props) {
       <a
         href='https://aze66.top'
         className='underline justify-start'>
-        阿泽の小宇宙 {siteConfig('VERSION')}
+        flyspeek {siteConfig('VERSION')}
       </a>
       .
     </div>
